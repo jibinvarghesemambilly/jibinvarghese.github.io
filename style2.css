@@ -30,7 +30,7 @@
 }
 
 .first-column {
-    animation: var(--animation, none) 16s infinite linear
+    animation: var(--animation, none) 60s infinite linear
 }
 
 .first-column:hover {
