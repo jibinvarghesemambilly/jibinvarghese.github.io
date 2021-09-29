@@ -1555,7 +1555,7 @@ svg text {
   font-size: 0px;
   font-family: 'Just Another Hand';
   font-weight: 900;
-  color: #d30000;
+ color: #ffffff;
 }
 
 .thankyou-text p:nth-child(1) {
@@ -1928,7 +1928,7 @@ svg text {
      /* position: absolute; */
     /* top: 50%; */
     /* left: 50%; */
-    width: 400px;
+    width: 240px;
     /* transform: translate(-50%, -50%); */
     margin: 0;
     padding: 0;

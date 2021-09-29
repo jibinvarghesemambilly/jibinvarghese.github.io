@@ -10,7 +10,7 @@
     display: flex;
     overflow: hidden;
     height: 50vw;
-    background: url('../images/pixel-heart.png');
+    background: url('images/pixel-heart.png');
 }
 
 .myimages img {
