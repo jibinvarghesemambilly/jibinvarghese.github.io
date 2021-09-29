@@ -10,7 +10,7 @@
     display: flex;
     overflow: hidden;
     height: 50vw;
-    background: #333
+    background: url('../images/pixel-heart.png');
 }
 
 .myimages img {
@@ -28,6 +28,7 @@
 .myimages img:hover {
     opacity: 1;
     z-index:9999;
+	position:relative;
     transform: scale(1.5,1.5);
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
@@ -41,10 +42,7 @@
     animation-play-state: paused
 }
 
-.first-column:nth-of-type(odd) {
-    align-self: flex-end;
-    --direction: 50%
-}
+
 
 @keyframes slide {
     to {
