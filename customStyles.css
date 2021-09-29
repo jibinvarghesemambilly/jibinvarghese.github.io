@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Just Another Hand';
-    src: url('../fonts/JustAnotherHand-Regular.woff2') format('woff2'),
-        url('../fonts/JustAnotherHand-Regular.woff') format('woff');
+    src: url('fonts/JustAnotherHand-Regular.woff2') format('woff2'),
+        url('fonts/JustAnotherHand-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Raleway-medium';
-    src: url('../fonts/Raleway-Medium.woff2') format('woff2'),
-        url('../fonts/Raleway-Medium.woff') format('woff');
+    src: url('fonts/Raleway-Medium.woff2') format('woff2'),
+        url('fonts/Raleway-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -17,8 +17,8 @@
 
 @font-face {
     font-family: 'Raleway-regular';
-    src: url('../fonts/Raleway-Regular.woff2') format('woff2'),
-        url('../fonts/Raleway-Regular.woff') format('woff');
+    src: url('fonts/Raleway-Regular.woff2') format('woff2'),
+        url('fonts/Raleway-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -26,8 +26,8 @@
 
 @font-face {
     font-family: 'Raleway-bold';
-    src: url('../fonts/Raleway-Bold.woff2') format('woff2'),
-        url('../fonts/Raleway-Bold.woff') format('woff');
+    src: url('fonts/Raleway-Bold.woff2') format('woff2'),
+        url('fonts/Raleway-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -35,8 +35,8 @@
 
 @font-face {
     font-family: 'Raleway-semi';
-    src: url('../fonts/Raleway-SemiBold.woff2') format('woff2'),
-        url('../fonts/Raleway-SemiBold.woff') format('woff');
+    src: url('fonts/Raleway-SemiBold.woff2') format('woff2'),
+        url('fonts/Raleway-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -57,7 +57,7 @@
 
 
 body{
-	 background: url('../images/triangle-mosaic.png') !important;
+	 background: url('images/triangle-mosaic.png') !important;
 	 background-size: 100px !important;
 }
 
@@ -115,7 +115,7 @@ body{
 
         @font-face {
     font-family: GreatVibes;
-    src: url(newfonts/GreatVibes-Regular.ttf);
+    src: url(fonts/GreatVibes-Regular.ttf);
 }
   
 /*h2 {
@@ -124,7 +124,7 @@ body{
 }*/       
  @font-face {
     font-family: SeaweedScript;
-    src: url(newfonts/SeaweedScript-Regular.ttf);
+    src: url(fonts/SeaweedScript-Regular.ttf);
 }
   
 /*h1 {
