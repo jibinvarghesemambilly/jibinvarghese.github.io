@@ -819,7 +819,7 @@ banner
   color: #fff;
   height: 550px;
   width: 100%;
-  
+  z-index: auto;
 }
 .divheight400{
   height: 400px !important;
