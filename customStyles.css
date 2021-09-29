@@ -285,7 +285,7 @@ ul {
 }
 
 p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 25px;
   color: #7a7a7a;
 }
@@ -1784,7 +1784,7 @@ svg text {
 	float:left;
 	padding:5px;
 	box-sizing:border-box;
-	background:url('../images/02-min.JPG');
+	background:url('images/02-min.JPG');
 	background-size:cover;
 	height:450px;
 	position:relative;
